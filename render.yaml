@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: soulspace
+    name: bluespace
     env: static
     staticPublishDir: frontend/build
     buildCommand: npm run build
